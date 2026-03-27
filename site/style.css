@@ -1,0 +1,28 @@
+body {
+
+	background-color: rgb(130, 76, 33);
+	font-size: 130%;
+	width: 900px;
+	list-style: none; 
+	text-align: left; 
+	width:600px  
+}
+
+	a:visited, 
+	a:hover {
+		text-decoration: none; 
+		color: black
+}
+
+	p { 
+		color: black; 
+		width: 900px;
+		 }
+	h1 {
+		color: green; 
+		font-size: 60px; 
+		border-bottom-style: ridge; 
+		 border: 2px; 
+		 }
+
+}
