@@ -2,7 +2,6 @@ body {
 
 	background-color: rgb(130, 76, 33);
 	font-size: 130%;
-	width: 900px;
 	list-style: none; 
 	text-align: left; 
 	width:600px  
@@ -16,7 +15,6 @@ body {
 
 	p { 
 		color: black; 
-		width: 900px;
 		 }
 	h1 {
 		color: green; 
