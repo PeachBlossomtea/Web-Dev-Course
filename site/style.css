@@ -1,16 +1,15 @@
 body {
 
-	background-color: rgb(130, 76, 33);
+	background-color: rgb(235, 219, 206);
 	font-size: 130%;
 	list-style: none; 
-	text-align: left; 
-	width:600px  
+	text-align: center; 
+
 }
 
-	a:visited, 
-	a:hover {
+	a:{
 		text-decoration: none; 
-		color: black
+		color: black;
 }
 
 	p { 
