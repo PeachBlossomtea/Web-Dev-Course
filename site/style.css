@@ -9,15 +9,17 @@ body {
 	list-style: none; 
 	text-align: center; 
 	font-family: raleway;
-	margin: 2px;
+	margin: 0px;
 	}
 
 li{
 	text-decoration: none;
+	text-align: left;
+	list-style: none;
 	}
 
-a{
-	text-decoration: none; 
+a{ 
+	text-decoration: none;
 	color: black;
 	}
 
@@ -27,21 +29,43 @@ p {
 	}
 
 h1 {
-	color: green; 
+	color: #37703f; 
 	font-size: 3em; 
 	border-bottom-style: ridge; 
 	border: 2px; 
 	font-weight: 700; 
 	font-family: "Sunny Script";
 	text-align: left;
+	margin-bottom: 5px;
+	}
+h1>img {
+	padding-bottom: 0px;
+	border-bottom: 0px;
+	margin-bottom: 0px;
+}
+
+
+
+hr {
+	margin-top: 0px;
+	border-bottom-width: 10px;
+	border-color: #37703f;		
+	color: #37703f;
+	font-weight: bold;
 	}
 
 #navbar{ 
 	text-align: left;
  	}
-footer.img {
-	text-align: left;
-	padding-bottom: 1px
-}
 
+ #contact{
+ 	text-align: left;
+	}
+input{
+
+} 
+
+footer>img {
+	text-align: left;
+	border-image: 0px;
 }
