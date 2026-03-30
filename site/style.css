@@ -1,25 +1,42 @@
-body {
+@font-face{ 
+	font-family: "sunny script"; 
+	src: url('fonts/Sunny Script.otf') format("opentype");
+	}
 
+body {
 	background-color: rgb(235, 219, 206);
-	font-size: 130%;
+	font-size: 120%;
 	list-style: none; 
 	text-align: center; 
+	font-family: raleway;
+	}
 
-}
+li{
+	text-decoration: none;
+	}
 
-	a:{
-		text-decoration: none; 
-		color: black;
-}
+a{
+	text-decoration: none; 
+	color: black;
+	}
 
-	p { 
-		color: black; 
+p { 
+	color: black; 
+	font-weight: 400;
 		 }
-	h1 {
-		color: green; 
-		font-size: 60px; 
-		border-bottom-style: ridge; 
-		 border: 2px; 
-		 }
+
+h1 {
+	color: green; 
+	font-size: 3em; 
+	border-bottom-style: ridge; 
+	border: 2px; 
+	font-weight: 700; 
+	font-family: "Sunny Script";
+	text-align: left;
+	}
+
+#navbar{ 
+	text-align: left;
+ }
 
 }
