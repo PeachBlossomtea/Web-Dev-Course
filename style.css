@@ -21,6 +21,7 @@ li{
 a{ 
 	text-decoration: none;
 	color: black;
+	cursor: pointer;
 	}
 
 p { 
@@ -61,11 +62,14 @@ hr {
  #contact{
  	text-align: left;
 	}
-input{
-
-} 
 
 footer>img {
 	text-align: left;
 	border-image: 0px;
 }
+button{ 
+	background-color: #DEC7F9;
+	border-color: #37703f;
+	border-width: 2px;
+	}
+#EBDBFF
