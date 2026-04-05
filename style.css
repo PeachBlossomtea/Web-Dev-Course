@@ -11,6 +11,11 @@ body {
 	font-family: raleway;
 	margin: 0px;
 	}
+#navbar a{
+	background-color:#37703f61;
+	border-color:antiquewhite;
+	border-style:double
+}
 
 li{
 	text-decoration: none;
@@ -39,10 +44,17 @@ h1 {
 	text-align: left;
 	margin-bottom: 5px;
 	}
+h2{
+	font-family: "Sunny Script";
+	font-size: 1.5em;
+	font-weight:400;
+}
+
 h1>img {
 	padding-bottom: 0px;
 	border-bottom: 0px;
 	margin-bottom: 0px;
+	float:inline-start
 }
 
 
@@ -73,3 +85,10 @@ button{
 	border-width: 2px;
 	}
 #EBDBFF
+#accomplishments{
+	background-color: #b68cea;
+	float: right;
+}
+footer>img{
+	float:inline-end;
+}
